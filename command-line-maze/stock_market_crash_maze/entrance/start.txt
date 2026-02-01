@@ -1,0 +1,10 @@
+Welcome to the Stock Market Crash Maze.
+
+You will travel through major crashes in U.S. history.
+
+Rule: You can ONLY use the terminal (cd, ls, cat).
+If you reach a dead end, go back.
+
+Start by entering the first numbered folder.
+
+Hint: folders are numbered in chronological order.
