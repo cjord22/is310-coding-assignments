@@ -21,3 +21,6 @@ Hypothesis username: cjord22
 
 6. GitHub Account  
 ![GitHub Account](images/github-account.png)
+
+7. AI:
+I will be using ChatGPT or CoPilot to help me understand any programming concepts and potentially to help organize and plan out any assignments I may have trouble moving forward on.
