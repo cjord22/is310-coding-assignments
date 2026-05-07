@@ -1,0 +1,168 @@
+{
+    "chosen_api": "Open Library API",
+    "open_library_items": [
+        {
+            "author_key": [
+                "OL3315835A",
+                "OL7993053A"
+            ],
+            "author_name": [
+                "Timothy Zahn",
+                "Albert Agut Iglesias"
+            ],
+            "cover_edition_key": "OL26782982M",
+            "cover_i": 8435742,
+            "ebook_access": "no_ebook",
+            "edition_count": 14,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL19324556W",
+            "language": [
+                "rus",
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Star Wars - Thrawn"
+        },
+        {
+            "author_key": [
+                "OL3315835A"
+            ],
+            "author_name": [
+                "Timothy Zahn"
+            ],
+            "cover_edition_key": "OL2028412M",
+            "cover_i": 11107659,
+            "ebook_access": "borrowable",
+            "edition_count": 34,
+            "first_publish_year": 1991,
+            "has_fulltext": true,
+            "ia": [
+                "laguerredestoile0000timo",
+                "heirtoempirestar00theo",
+                "heirtoempire00zahn"
+            ],
+            "ia_collection": [
+                "americana",
+                "delawarecountydistrictlibrary",
+                "delawarecountydistrictlibrary-ol",
+                "goffstownlibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "library_of_atlantis",
+                "printdisabled"
+            ],
+            "key": "/works/OL83589W",
+            "language": [
+                "und",
+                "eng",
+                "spa",
+                "ger"
+            ],
+            "lending_edition_s": "OL26825038M",
+            "lending_identifier_s": "laguerredestoile0000timo",
+            "public_scan_b": false,
+            "title": "Star Wars - Thrawn Trilogy - Heir to the Empire"
+        },
+        {
+            "author_key": [
+                "OL3315835A"
+            ],
+            "author_name": [
+                "Timothy Zahn"
+            ],
+            "cover_edition_key": "OL8102519M",
+            "cover_i": 538385,
+            "ebook_access": "borrowable",
+            "edition_count": 24,
+            "first_publish_year": 1992,
+            "has_fulltext": true,
+            "ia": [
+                "labatailledesjed0000zahn",
+                "darkforcerising00zahn",
+                "darkforcerising0000zahn"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL83573W",
+            "language": [
+                "fre",
+                "spa",
+                "ger",
+                "eng"
+            ],
+            "lending_edition_s": "OL32113240M",
+            "lending_identifier_s": "labatailledesjed0000zahn",
+            "public_scan_b": false,
+            "title": "Star Wars - Thrawn Trilogy - Dark Force Rising"
+        },
+        {
+            "author_key": [
+                "OL3315835A"
+            ],
+            "author_name": [
+                "Timothy Zahn"
+            ],
+            "cover_edition_key": "OL1738616M",
+            "cover_i": 6529190,
+            "ebook_access": "printdisabled",
+            "edition_count": 21,
+            "first_publish_year": 1993,
+            "has_fulltext": true,
+            "ia": [
+                "lastcommand00zahnrich"
+            ],
+            "ia_collection": [
+                "americana",
+                "delawarecountydistrictlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL83577W",
+            "language": [
+                "fre",
+                "eng",
+                "spa",
+                "ger"
+            ],
+            "public_scan_b": false,
+            "title": "Star Wars - The Thrawn Trilogy - The Last Command"
+        },
+        {
+            "author_key": [
+                "OL7232144A"
+            ],
+            "author_name": [
+                "E. K. Johnston"
+            ],
+            "cover_edition_key": "OL26429891M",
+            "cover_i": 8139824,
+            "ebook_access": "printdisabled",
+            "edition_count": 9,
+            "first_publish_year": 2016,
+            "has_fulltext": true,
+            "ia": [
+                "starwarsahsoka0000ekjo",
+                "starwarsahsoka0000john"
+            ],
+            "ia_collection": [
+                "hamiltonpubliclibrary-ol",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "key": "/works/OL17843491W",
+            "language": [
+                "eng",
+                "pol",
+                "rus",
+                "ger"
+            ],
+            "public_scan_b": false,
+            "title": "Star Wars - Ahsoka"
+        }
+    ],
+    "europeana_items": []
+}
